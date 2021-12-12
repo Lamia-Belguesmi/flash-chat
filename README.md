@@ -1,7 +1,7 @@
 # flash-chat
 
 # Flash Chat ⚡️
-https://imgflip.com/gif/5xktrq
+![1](https://user-images.githubusercontent.com/65131757/145710391-be5ddd6d-22f8-4e52-9549-409c5fc8f783.gif)
 
 ## What you will create
 
